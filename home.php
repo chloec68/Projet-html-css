@@ -38,6 +38,57 @@
      </section>
     <!-- header section ends -->
 
+
+
+
+
+    
+    <!-- home section starts -->
+
+    <section class="home">
+
+        <div class="swiper home-slider">
+
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>travel around the world</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>discover new places</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>make your tour worthwhile</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+
+    </section>
+
+     <!-- home section ends -->
+
+
+
+
+
+
     <!-- services section starts  -->
      <section class="services">
 
@@ -125,10 +176,9 @@
      <!-- footer section ends -->
 
 
-
-    <!-- js file link -->
-    <script src="script.js"></script>
     <!-- swiper js link -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- js file link -->
+    <script src="script.js"></script>
 </body>
 </html>
