@@ -39,7 +39,7 @@
     <!-- header section ends -->
 
     
-    <div class="heading" style="background:url(images/header-bg-1.jpg) no-repeat">
+    <div class="heading" style="background:url(images/header-bg-2.jpg) no-repeat">
         <h1>package</h1>
     </div>
 
