@@ -18,7 +18,6 @@
     <link rel="stylesheet" href="style.css">
     <!-- swiper css link -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
-
 </head>
 <body>
     <!-- header section starts -->
@@ -80,7 +79,7 @@
 
      <section class="reviews">
         <h3>clients reviews</h3> 
-        <div class="swiper reviews-slider">
+        <div class="swiper reviews-slider mySwiper">
             <div class="swiper-wrapper">
 
                 <div class="swiper-slide slide">
@@ -231,9 +230,12 @@
 
 
 
+
+
+
+    <!-- Swiper JS Link -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <!-- js file link -->
     <script src="script.js"></script>
-    <!-- swiper js link -->
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 </body>
 </html>

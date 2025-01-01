@@ -408,6 +408,7 @@ section{
     background: var(--white);
     text-align: center;
     box-shadow:var(--box-shadow);
+    user-select: none;
 }
 
 .reviews .slide .stars{
@@ -445,7 +446,6 @@ section{
     margin-top:1rem;
 }
 
-
 .reviews h3{
     color: var(--black);
     display: flex;
@@ -454,6 +454,11 @@ section{
     text-transform: uppercase;
     padding-bottom: 4rem;
 }
+
+
+
+
+
 
 
 
