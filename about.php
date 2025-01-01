@@ -45,6 +45,147 @@
 
 
 
+    <!-- about section starts -->
+     <section class="about">
+        <div class="image">
+            <img src="images/about-img-jpg.jpg" alt="">
+        </div>
+
+        <div class="content">
+            <h3>why choose us?</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis laborum iusto sunt autem illum! Quam odit repellendus similique est,
+                vel ducimus perferendis deserunt hic ipsam laboriosam velit, necessitatibus cumque possimus!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, dolorum. Iure voluptatibus iste culpa omnis consequuntur id aspernatur, beatae
+                nam quisquam doloribus vel nemo atque sint eveniet adipisci facilis aperiam.</p>
+            <div class="icons-container">
+                <div class="icons">
+                    <i class="fas fa-map"></i>
+                    <span>top destinations</span>
+                </div>
+                <div class="icons">
+                    <i class="fas fa-hand-holding-usd"></i>
+                    <span>affordable price</span>
+                </div>
+                <div class="icons">
+                    <i class="fas fa-headset"></i>
+                    <span>24/7 guide service</span>
+                </div>
+            </div>
+        </div>
+     </section>
+     <!-- about section ends -->
+
+
+     <!-- reviews section starts -->
+
+     <section class="reviews">
+        <h3>clients reviews</h3> 
+        <div class="swiper reviews-slider">
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam ea commodi porro deleniti nemo.
+                        Laborum assumenda natus aspernatur dolor omnis est vero dignissimos porro,
+                        magnam necessitatibus culpa. Omnis, nemo perspiciatis.</p>
+                    <h3>john deo</h3>
+                    <span>traveler</span>
+                    <img src="images/pic-1.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                    <h3>john deo</h3>
+                    <span>traveler</span>
+                    <img src="images/pic-2.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Culpa quaerat voluptatem necessitatibus aperiam nihil in quas inventore eos voluptas? Accusamus.
+                    </p>
+                    <h3>john deo</h3>
+                    <span>traveler</span>
+                    <img src="images/pic-3.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quasi.</p>
+                    <h3>john deo</h3>
+                    <span>traveler</span>
+                    <img src="images/pic-4.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                        Autem nisi cumque repellat fuga necessitatibus numquam aspernatur ea adipisci!</p>
+                    <h3>john deo</h3>
+                    <span>traveler</span>
+                    <img src="images/pic-5.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit qui ea quas repellat.
+                        Officiis veniam enim earum totam inventore,
+                        ratione sed. Odio saepe ab odit veritatis accusantium. Maiores, maxime quia.</p>
+                    <h3>john deo</h3>
+                    <span>traveler</span>
+                    <img src="images/pic-6.jpg" alt="">
+                </div>
+
+            </div>
+            <div class="swiper-pagination"></div> 
+        </div>  
+     
+     </section>
+      <!-- review section ends -->
+
+
+
+
+
+
+
+
+
+
+
     <!-- footer section starts -->
      <section class="footer">
         <div class="box-container">

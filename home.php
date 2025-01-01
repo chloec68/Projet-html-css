@@ -25,7 +25,6 @@
      <section class="header">
 
         <a href="home.php" class="logo">travel.</a>
-
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
@@ -131,6 +130,88 @@
     <!-- services section ends -->
 
 
+    <!-- home about section starts -->
+
+    <section class="home-about">
+
+        <div class="image">
+            <img src="images/about-img-jpg.jpg" alt="">
+        </div>
+
+        <div class="content">
+            <h3>about us</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique amet harum sunt, adipisci eum vel unde eius
+            optio qui consectetur rerum saepe autem eveniet facere nisi itaque ea, doloribus mollitia.</p>
+            <a href="about.php" class="btn">read more</a>
+        </div>
+    </section>
+
+    <!-- home about section ends -->
+
+
+    <!-- home packages section starts  -->
+
+        <section class="home-packages">
+
+            <h1 class="heading-title">our packages</h1>
+
+            <div class="box-container">
+
+                <div class="box">
+                    <div class="image">
+                        <img src="images/img-1.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>adventure & tour</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat, maxime ut.</p>
+                        <a href="book.php" class="btn">book now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="images/img-2.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>adventure & tour</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat, maxime ut.</p>
+                        <a href="book.php" class="btn">book now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="images/img-3.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>adventure & tour</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat, maxime ut.</p>
+                        <a href="book.php" class="btn">book now</a>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+
+        </section>
+
+     <!-- home packages section ends  -->
+
+     <!-- home offer section starts -->
+
+    
+     <section class="home-offer">
+        <div class="content">
+            <h3>up to 50% off</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe animi nesciunt sequi? Voluptatum ut sequi eveniet est iste
+                fugit hic laudantium et odio doloremque praesentium odit rerum unde, incidunt quia?</p>
+            <a href="book.php" class="btn">book now</a>
+        </div>
+     </section>
+      <!-- home offer section ends -->
+
+
 
     <!-- footer section starts -->
      <section class="footer">
@@ -177,8 +258,8 @@
 
 
     <!-- swiper js link -->
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>   <!-- /!\ ordre des scripts ! -->
     <!-- js file link -->
-    <script src="script.js"></script>
+    <script src="script.js"></script>   <!-- /!\ ordre des scripts ! -->
 </body>
 </html>
