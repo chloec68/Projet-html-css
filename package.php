@@ -183,6 +183,18 @@
                 </div>
             </div>
 
+            <div class="box">
+                <div class="image">
+                    <img src="images/img-12.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, doloremque officiis. Non a quaerat deleniti corporis. Quasi perferendis nisi,
+                        rem, perspiciatis aliquam nobis molestias voluptatem iure consectetur quos accusantium incidunt!</p>
+                        <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
         </div>
 
         <div class="load-more">
@@ -230,6 +242,8 @@
                 <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
                 <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
             </div>
+
+            
 
         </div>
 
