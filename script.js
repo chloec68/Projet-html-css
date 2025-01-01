@@ -1,3 +1,4 @@
+
 let menu = document.querySelector('#menu-btn');
 let navbar = document.querySelector('.header .navbar');
 
@@ -41,3 +42,22 @@ var swiper = new Swiper(".mySwiper", {
       },
 });
 
+
+
+
+
+
+let loadMoreButton = document.querySelector('.packages .load-more .btn');
+
+let currentItem = 3;
+
+loadMoreButton.onclick = () =>{
+    let boxes = [...document.querySelectorAll('.packages .box-container .box')];
+    for (var i = currentItem; i < currentItem + 3; i++){
+        boxes[i].style.display= 'inline-block';
+    };
+    currentItem += 3;
+    if(currentItem >= boxes.length){
+        loadMoreButton.style.display = 'none';
+    }
+};
