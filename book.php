@@ -139,7 +139,7 @@
 
         </div>
 
-        <div class="credits"> created by <span>mr. web designer </span>| all rights reserved</div>
+        <!-- <div class="credits"> created by <span>mr. web designer </span>| all rights reserved</div> -->
 
      </section>
      <!-- footer section ends -->

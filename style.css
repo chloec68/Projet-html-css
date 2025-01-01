@@ -668,6 +668,10 @@ section{
 
 @media (max-width:768px){
 
+    .heading h1{
+        font-size:4rem;
+    }
+
     .header .navbar{
         position:absolute;
         top:99%; left:0%; right:0;

@@ -223,14 +223,14 @@
 
         </div>
 
-        <div class="credits"> created by <span>mr. web designer </span>| all rights reserved</div>
+        <!-- <div class="credits"> created by <span>mr. web designer </span>| all rights reserved</div> -->
 
      </section>
      <!-- footer section ends -->
 
 
 
-     
+
 
     <!-- Swiper JS Link -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
